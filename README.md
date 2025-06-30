@@ -20,4 +20,7 @@ Event Registration & Order Page: Allows users to register for events and view th
 
 Customer Support: Provides users with a channel to address their queries and receive support.
 
-Admin Capabilities:# Event-Management-System
+Admin Capabilities:
+Add and manage new venue details. Register and manage manager accounts. Resolve customer queries efficiently. Oversee and control all functionalities within the system. Manager Capabilities:
+
+Update event statuses from pending to confirmed or cancelled. View and manage events registered by users. Handle customer queries by updating their statuses from new to resolved. Update their availability status. Access and view detailed venue information. This project exemplifies my ability to create user-friendly, functional, and efficient web applications using Django. The CAMS Event Management System is designed to meet the diverse needs of event managers, administrators, and users, ensuring a seamless event management experience.# Event-Management-System
